@@ -1,0 +1,39 @@
+h1 {
+	color:#AD99F1;
+	text-align: center;
+}
+
+p {
+	color:#F53674;
+}
+
+li {
+	color:green;
+}
+
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 50%;
+}
+
+th, td{
+	border: 1px solid black;
+	width: 100px;
+	text-align: center;
+	padding: 5px;
+}
+
+th {
+	
+	background-color: grey;
+}
+
+#first  {
+	font-size: 30px;
+	background-color: blue;
+}
+
+.shame {
+	font-size: 10px;
+}
